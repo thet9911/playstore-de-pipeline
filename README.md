@@ -23,6 +23,10 @@ End-to-end data engineering project using PySpark and DuckDB, built with a Bronz
 - Free vs Paid apps
 - Top apps by installs
 
+## Interactive Dashboard
+
+🔗 [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1qcaTQGa-5BDXrYSjNE0n6QyDHdsEZXCzUbUt5HwF1Zk/edit?usp=sharing)
+
 ## How to Run
 
 ```bash
@@ -43,4 +47,5 @@ python -m src.main --stage gold \
 
 # DuckDB Analytics
 python dashboards/duckdb/playstore_analytics.py
+
 
